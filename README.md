@@ -1,4 +1,3 @@
-
 # Power BI Portfolio
 
 This repository showcases a collection of Power BI projects that highlight my skills and experience in data analysis, visualization, and reporting. Each project demonstrates how I leveraged Power BI's capabilities to extract insights from data and present them in an interactive and user-friendly way.
