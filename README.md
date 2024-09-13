@@ -6,9 +6,12 @@ Contents
 
 - **Project 1: Book Sales**
 
-    An interactive Book Sales Dashboard designed to provide an in-depth analysis of book sales performance. The dashboard begins with an overview, highlighting key metrics such as the total number of authors, genres, and overall book sales.
+    An interactive Book Sales Dashboard designed to provide an in-depth analysis of book sales performance. The dashboard begins with an overview, highlighting key metrics such as the 
+    total number of authors, genres, and overall book sales.
 
-    This is followed by a detailed breakdown, featuring visually engaging charts that offer deeper insights. A horizontal bar chart showcases the top 5 selling genres, while a vertical bar chart displays the top 5 publishers. Additionally, bar charts provide a clear view of the best-selling authors and books, complete with well-structured legends for easy interpretation.
+    This is followed by a detailed breakdown, featuring visually engaging charts that offer deeper insights. A horizontal bar chart showcases the top 5 selling genres, while a vertical 
+    bar chart displays the top 5 publishers. Additionally, bar charts provide a clear view of the best-selling authors and books, complete with well-structured legends for easy 
+    interpretation.
 
     Through intuitive visualizations and interactive elements, the dashboard enables users to explore and analyze book sales data effectively.
 
@@ -20,19 +23,22 @@ Contents
    The League Matches Won Per Season chart shows the number of matches Chelsea has won each season. Chelsea’s performance peaks in the mid-2000s, with notable highs such as 29 and 30 
    wins around 2005 and 2015, reflecting their dominance during these periods. However, the club's performance fluctuates in recent years, with a noticeable drop in wins after 2020.
 
-   The Goal Difference Per Season graph further highlights Chelsea's varying fortunes. The goal difference climbs steadily from the 1990s, peaking at +71 in the early 2010s. This period 
+   The Goal Difference Per Season graph further highlights Chelsea's varying fortunes. The goal difference climbs steadily from the 1990s, peaking at +71 in the early 2010s. This 
+   period 
    marks Chelsea’s offensive and defensive prowess, especially under successful managers. However, more recent seasons show a marked decline in goal difference, even reaching negative 
    figures, which indicates struggles in both scoring and defense.
 
    The League Position Per Season line chart traces Chelsea’s standings in the Premier League. After consistently being mid-table in the early 1990s, the club experiences a sharp rise 
-   in the mid-1990s to early 2000s, regularly finishing in the top six. Between 2010 and 2020, Chelsea is a frequent top-four finisher, but a slight dip in performance can be seen post- 
+   in the mid-1990s to early 2000s, regularly finishing in the top six. Between 2010 and 2020, Chelsea is a frequent top-four finisher, but a slight dip in performance can be seen 
+   post- 
    2020, with the club dropping to 12th place in 2023.
 
    The Points Per Season bar chart reflects similar trends. Points accumulate steadily from the early 1990s, peaking in the mid-2000s with 95 points in 2005, coinciding with Chelsea's 
    title-winning seasons. The points per season remain competitive until recent years, where a drop to 63 points in 2023 suggests Chelsea is facing more challenges.
 
    Lastly, the Goals Scored Per Season line chart reveals Chelsea's attacking output. While the club consistently scores between 50 to 70 goals for much of its Premier League history, 
-   significant spikes—such as 103 goals in 2010—show exceptional attacking seasons. Recently, Chelsea's goal-scoring has been more moderate, reflecting both tactical shifts and possible 
+   significant spikes—such as 103 goals in 2010—show exceptional attacking seasons. Recently, Chelsea's goal-scoring has been more moderate, reflecting both tactical shifts and 
+   possible 
    attacking inefficiencies.
 
    In conclusion, this dashboard offers a detailed look at Chelsea's Premier League history. It highlights the club's peak dominance during the 2000s and early 2010s, followed by more 
@@ -41,27 +47,83 @@ Contents
   
 - **Project 3: Coffee Consumption Dataset**
   
-    This interactive report offers an in-depth analysis of coffee consumption patterns through a variety of engaging visualizations.
+    I created a Power BI dashboard to analyze coffee consumption patterns, focusing on the types of coffee purchased, monthly spending trends, payment methods, and top card spenders. 
+    This visualization aims to give a comprehensive look at how customers interact with different coffee types, their spending habits, and payment preferences over time.
 
-    The report features horizontal bar charts that display coffee consumption by type, providing a clear comparison across different coffee varieties. Vertical bar charts highlight the amount of money spent per coffee type, along with insights into the top card payers. To illustrate trends over time, line graphs are used to track monthly coffee consumption and spending.
+    The "Money Spent Per Coffee Type" visualization reveals that lattes and Americanos with milk are the most popular, each accounting for over 10K in spending. Cappuccinos follow 
+    closely with 8.2K, while Americanos and Cortados see less expenditure at 5K and 3.3K, respectively. Espresso and Cocoa have the least spending, with only 1.3K and 1.6K. This 
+    pattern reflects a strong preference for milk-based coffee drinks among customers.
 
-    Additionally, a donut chart showcases the distribution of money spent by payment method, offering a visually appealing breakdown of customer payment preferences. Together, these visualizations provide a comprehensive view of coffee consumption habits and spending patterns, empowering users to explore the data in an interactive and intuitive way.
+    In terms of consumption, Americanos with milk are consumed the most, with 319 orders, followed by lattes at 282, and cappuccinos at 222. This shows that despite the high 
+    consumption numbers for Americanos with milk, customers are willing to spend more on lattes and cappuccinos. Cortados and hot chocolate also have significant consumption, but 
+    espressos and cocoa remain the least consumed.
+
+    Looking at the "Money Spent Per Month" analysis, there’s a clear peak in April, where spending hits 9.1K, followed by a gradual decrease through to August. March saw relatively 
+    lower spending at 7.1K, and August hit the lowest point at 5.1K. This drop in spending might reflect a seasonal pattern or changing customer preferences. Similarly, the "Coffee 
+    Consumption Per Month" graph follows a similar trend, peaking in May with 267 orders and seeing a decline to 180 orders in August.
+
+    I also examined payment preferences, where card payments dominate, accounting for 92.53% of total transactions, while cash makes up only 7.47%. This indicates that most customers 
+    prefer using cards for their coffee purchases, which could be tied to convenience or store incentives.
+
+    The dashboard also highlights the top five card spenders, with the highest spender (AN00-0000-0000-0) reaching 2.8K. The other top spenders follow closely, but all are under 2.5K. 
+    This section of the dashboard helps identify the most loyal and high-value customers.
+
+    Overall, the dashboard provides valuable insights into customer preferences, monthly trends, and top spenders, allowing for better decision-making when it comes to marketing, 
+    inventory, and customer service strategies.
 
 - **Project 4: Store Sales Data**
 
-    This report provides a comprehensive analysis of key metrics from a store sales dataset through a variety of detailed visualizations.
+    I worked on a comprehensive sales data analysis project using Power BI, focusing on different aspects of performance across products, regions, and customer behavior. The dashboard 
+    provides a holistic view of the business operations, highlighting key areas such as top-selling products, profit distribution, and geographical performance.
 
-    Vertical bar charts are utilized to display the store's best-selling products, total shipping costs by shipping method, and the most profitable regions, offering clear insights into these crucial aspects. A horizontal bar chart highlights the best-selling subcategories, while an interactive map visually represents the five most profitable countries by profit.
+    One of the most insightful visualizations is the breakdown of best-selling products, where staples have emerged as the highest-selling product by a significant margin. Other 
+    products like Cardinal Index Tabs and Eldon File Carts follow, but with a much lower sales volume. I also looked into best-selling subcategories, where Binders lead the way, 
+    followed by Storage and Art supplies, reflecting the popularity of office essentials.
 
-    Additionally, a donut chart showcases profitability across different years, and a treemap chart breaks down profitability by category for a more granular view. A funnel chart is also included to visualize the store's top clients by profit, allowing for an easy comparison of customer contributions to profitability. Together, these visualizations provide a holistic view of sales performance and profitability across various dimensions.
+    In terms of yearly sales, there's a clear upward trajectory, with sales growing steadily from 2011 to 2014. By 2014, sales reached over 60K, indicating consistent growth over the 
+    four years. Profitability is analyzed by year, with 2014 being the most profitable year, contributing 34.36% of total profits. The profit split also shows that 2011 contributed the 
+    least (16.98%), but still holds significance.
+
+    I also analyzed customer data to understand the top customers. Tamara Chand stands out as the top customer, followed by Raymond Buch and Sanjit Chand, showing high levels of 
+    engagement. These top customers have been crucial to maintaining the revenue base.
+
+    From a geographical perspective, the most profitable regions were analyzed, and Central came out as the top performer with profits of 0.31M. Other regions such as North Asia and 
+    North America also contributed significantly, but the Central region was the standout. The shipping costs analysis shows that standard class shipping was the most used option, 
+    reflecting its efficiency and cost-effectiveness, compared to other modes like same-day delivery, which incurred higher costs.
+
+    Lastly, I focused on profit across different categories, where Technology products generated the most profit at 663.7K, followed by Office Supplies at 518.47K. Furniture, although 
+    a key product, generated less profit comparatively. The entire dashboard delivers an in-depth understanding of how different aspects of the business contribute to the overall 
+    growth and profitability, helping to pinpoint key drivers and areas for improvement.
 
 - **Project 5: Student Mobile Health Effects**
   
-   This interactive dashboard presents the results of a survey on students' perceptions of mobile health effects, offering a comprehensive view through various visualizations.
+   In this Power BI dashboard, I focused on analyzing the effects of mobile phone usage on students, looking into aspects such as gender distribution, mobile operating systems, daily 
+   usage patterns, health symptoms, and the perceived impact on academic performance. The analysis aims to understand how students interact with their mobile phones, whether it aids in 
+   studying, and the potential health consequences of prolonged usage.
 
-   A donut chart is used to display the gender distribution of the participants, while a stacked vertical bar chart visualizes the mobile operating systems (OS) used by students, broken down by gender. Vertical bar charts are employed to illustrate students' responses to key questions, such as daily mobile usage, beneficial subjects of mobile use, the frequency of health symptoms, and precautions taken for mobile usage.
+   The student gender breakdown is heavily skewed towards females, who make up 81% of the sample, with males comprising only 19%. Regarding mobile operating systems, the majority of 
+   students use iOS (79.1%), while 20.9% use Android. This highlights a strong preference for Apple products among the student population. When asked whether their mobile phones are 
+   helpful for studying, an overwhelming 95.92% responded positively, showcasing the importance of mobile devices as study tools.
 
-   Horizontal bar charts are used to present the percentages of students who reported the impact of mobile phones on their academic performance and the appearance of specific health symptoms related to mobile phone use. Each visualization is expressed as a percentage, providing clear insights into the students' collective responses. This interactive dashboard allows users to explore the effects of mobile phone usage on health and performance in an intuitive manner. 
+   The analysis of daily mobile phone usage reveals that 40% of students spend 4-6 hours on their phones daily, while 27.2% use them for 2-4 hours. Only 7.07% reported using their 
+   phones for less than 2 hours a day, indicating significant screen time for most students. Interestingly, when asked if mobile phones affect their performance, 40.82% of students 
+   agreed that they do, with another 29.95% remaining neutral. Only a small percentage (12.24%) strongly disagreed, indicating that the majority feel some impact, whether positive or 
+   negative.
+
+   Health-related symptoms caused by mobile usage were a major focus. The most common issue is the occurrence of all listed symptoms, which include sleep disturbances, headaches, and 
+   anxiety, affecting 34.41% of respondents. Sleep disruption alone accounts for 27.86%, followed by headaches at 24.73%. A smaller portion, 12.9%, reported anxiety or stress. These 
+   findings indicate that mobile usage can have noticeable effects on students' health, especially concerning sleep quality.
+
+   Mobile usage also seems beneficial in academic contexts, with 48.64% of students primarily using their phones for research. Another 33.33% use their phones for browsing study 
+   material, and a smaller group (18.18%) focuses on accounting tasks. However, the frequent appearance of symptoms such as sleep disruption could potentially undermine these benefits 
+   over time.
+
+   The dashboard also delves into symptom frequency, with 52.53% of students reporting that these symptoms occur "sometimes." Only 9.09% experience them frequently, while 21.21% and 
+   17.17% experience symptoms either rarely or never. Students are taking some precautions to manage their mobile usage, with 35.35% limiting screen time. Others are using techniques 
+   like taking breaks (21.21%) or using blue light filters (21.21%) to mitigate the negative effects.
+
+   Overall, this dashboard offers valuable insights into the complex relationship between mobile phone usage and its effects on students' health and performance. While phones are 
+   indispensable for studying and research, they also contribute to health issues that students are trying to manage through various precautions.
 
 - **Project 6: Netflix Revenue** 
 
