@@ -4,16 +4,28 @@ This repository showcases a collection of Power BI projects that highlight my sk
 
 Contents
 
-- **Project 1: Book Sales**
+- **Project 1: Premier League 23-24**
 
-    An interactive Book Sales Dashboard designed to provide an in-depth analysis of book sales performance. The dashboard begins with an overview, highlighting key metrics such as the 
-    total number of authors, genres, and overall book sales.
+   This project explores various metrics and performance indicators from the 2023/2024 Premier League season, based on data sourced from FBREF. By analyzing possession against 
+   performance, there's a clear relationship between how much teams control the ball and their overall effectiveness. The chart highlights certain outliers, where teams like Manchester 
+   City and Arsenal dominate possession, whereas others like Luton Town perform poorly despite similar possession metrics. Another analysis contrasts expected contributions (xG and 
+   xAG) against actual contributions (goals and assists), showing which teams are overperforming or underperforming relative to their expected metrics. Notably, Liverpool, Manchester 
+   City, and Arsenal stand out for outperforming their expected metrics, while teams like Sheffield United and Everton underperform significantly, as evidenced by the -14 contribution 
+   for Everton.
 
-    This is followed by a detailed breakdown, featuring visually engaging charts that offer deeper insights. A horizontal bar chart showcases the top 5 selling genres, while a vertical 
-    bar chart displays the top 5 publishers. Additionally, bar charts provide a clear view of the best-selling authors and books, complete with well-structured legends for easy 
-    interpretation.
+   The goals breakdown offers insights into how teams score—whether through non-penalty goals (npG) or penalties (PK). Manchester City and Arsenal lead the table in overall goals, 
+   showcasing their high offensive output. At the same time, teams like Sheffield United and Everton have significantly fewer goals, indicating clear issues in their attacking 
+   performance. The relationship between squad age and performance is also explored, suggesting that teams with younger squads (around 25-26 years old) tend to perform better on non- 
+   penalty expected goals (npxG), though there's a drop-off for both older and younger squads.
 
-    Through intuitive visualizations and interactive elements, the dashboard enables users to explore and analyze book sales data effectively.
+   The comparison between expected goals and actual performance further reinforces these findings, where top-performing teams like Manchester City and Arsenal consistently outperform 
+   their xG. Meanwhile, teams such as Luton Town struggle to match their expected goals, highlighting inefficiency in converting chances. Another key aspect is progressive actions, 
+   where progressive passes and carries (PrgA) are compared with goals and assists (G+A). Teams like Liverpool and Manchester City excel at turning progressive actions into tangible 
+   outcomes, while lower-performing teams struggle to do so.
+
+   Finally, the team efficiency chart captures the balance between assists (A) and goals (G). Teams like Manchester City, Arsenal, and Brighton demonstrate high efficiency, excelling 
+   both in creating and finishing chances. On the other hand, teams such as Everton and Luton Town show inefficiency, with fewer assists and goals relative to other teams. These 
+   findings suggest a significant divide in the league between high-performing, efficient teams and those that lag both in creating and converting opportunities.
 
 - **Project 2: Chelsea PL Data**
 
