@@ -29,11 +29,11 @@ Contents
 
 - **Project 2: Chelsea PL Data**
 
-   This Power BI project visualizes Chelsea Football Club's performance in the Premier League from 1990 to 2025, focusing on key metrics such as matches won, points, goals scored, goal 
+   This Power BI project visualizes Chelsea Football Club's performance in the Premier League from 1990 to 2024, focusing on key metrics such as matches won, points, goals scored, goal 
    difference, and league position. The dashboard provides a historical view of Chelsea's progress and fluctuations over the years.
 
    The League Matches Won Per Season chart shows the number of matches Chelsea has won each season. Chelsea’s performance peaks in the mid-2000s, with notable highs such as 29 and 30 
-   wins around 2005 and 2015, reflecting their dominance during these periods. However, the club's performance fluctuates in recent years, with a noticeable drop in wins after 2020.
+   wins around 2005 and 2017, reflecting their dominance during these periods. However, the club's performance fluctuates in recent years, with a noticeable drop in wins after 2020.
 
    The Goal Difference Per Season graph further highlights Chelsea's varying fortunes. The goal difference climbs steadily from the 1990s, peaking at +71 in the early 2010s. This 
    period 
@@ -46,7 +46,7 @@ Contents
    2020, with the club dropping to 12th place in 2023.
 
    The Points Per Season bar chart reflects similar trends. Points accumulate steadily from the early 1990s, peaking in the mid-2000s with 95 points in 2005, coinciding with Chelsea's 
-   title-winning seasons. The points per season remain competitive until recent years, where a drop to 63 points in 2023 suggests Chelsea is facing more challenges.
+   title-winning seasons. The points per season remain competitive until recent years, where a drop to 63 points in 2024 suggests Chelsea is facing more challenges.
 
    Lastly, the Goals Scored Per Season line chart reveals Chelsea's attacking output. While the club consistently scores between 50 to 70 goals for much of its Premier League history, 
    significant spikes—such as 103 goals in 2010—show exceptional attacking seasons. Recently, Chelsea's goal-scoring has been more moderate, reflecting both tactical shifts and 
@@ -70,8 +70,8 @@ Contents
     consumption numbers for Americanos with milk, customers are willing to spend more on lattes and cappuccinos. Cortados and hot chocolate also have significant consumption, but 
     espressos and cocoa remain the least consumed.
 
-    Looking at the "Money Spent Per Month" analysis, there’s a clear peak in April, where spending hits 9.1K, followed by a gradual decrease through to August. March saw relatively 
-    lower spending at 7.1K, and August hit the lowest point at 5.1K. This drop in spending might reflect a seasonal pattern or changing customer preferences. Similarly, the "Coffee 
+    Looking at the "Money Spent Per Month" analysis, there’s a clear peak in May, where spending hits 9.1K, followed by a gradual decrease through to August. April saw relatively 
+    lower spending at 6.7K, and August hit the lowest point at 5.1K. This drop in spending might reflect a seasonal pattern or changing customer preferences. Similarly, the "Coffee 
     Consumption Per Month" graph follows a similar trend, peaking in May with 267 orders and seeing a decline to 180 orders in August.
 
     I also examined payment preferences, where card payments dominate, accounting for 92.53% of total transactions, while cash makes up only 7.47%. This indicates that most customers 
@@ -113,20 +113,19 @@ Contents
    usage patterns, health symptoms, and the perceived impact on academic performance. The analysis aims to understand how students interact with their mobile phones, whether it aids in 
    studying, and the potential health consequences of prolonged usage.
 
-   The student gender breakdown is heavily skewed towards females, who make up 81% of the sample, with males comprising only 19%. Regarding mobile operating systems, the majority of 
-   students use iOS (79.1%), while 20.9% use Android. This highlights a strong preference for Apple products among the student population. When asked whether their mobile phones are 
-   helpful for studying, an overwhelming 95.92% responded positively, showcasing the importance of mobile devices as study tools.
+   The student gender breakdown is heavily skewed towards males, who make up 81% of the sample, with females comprising only 19%. When asked whether their mobile phone 
+   are helpful for studying, an overwhelming 95.92% responded positively, showcasing the importance of mobile devices as study tools.
 
    The analysis of daily mobile phone usage reveals that 40% of students spend 4-6 hours on their phones daily, while 27.2% use them for 2-4 hours. Only 7.07% reported using their 
    phones for less than 2 hours a day, indicating significant screen time for most students. Interestingly, when asked if mobile phones affect their performance, 40.82% of students 
-   agreed that they do, with another 29.95% remaining neutral. Only a small percentage (12.24%) strongly disagreed, indicating that the majority feel some impact, whether positive or 
+   agreed that they do, with another 29.59% remaining neutral. Only a small percentage (12.24%) strongly disagreed, indicating that the majority feel some impact, whether positive or 
    negative.
 
    Health-related symptoms caused by mobile usage were a major focus. The most common issue is the occurrence of all listed symptoms, which include sleep disturbances, headaches, and 
-   anxiety, affecting 34.41% of respondents. Sleep disruption alone accounts for 27.86%, followed by headaches at 24.73%. A smaller portion, 12.9%, reported anxiety or stress. These 
+   anxiety, affecting 34.41% of respondents. Sleep disruption alone accounts for 27.96%, followed by headaches at 24.73%. A smaller portion, 12.9%, reported anxiety or stress. These 
    findings indicate that mobile usage can have noticeable effects on students' health, especially concerning sleep quality.
 
-   Mobile usage also seems beneficial in academic contexts, with 48.64% of students primarily using their phones for research. Another 33.33% use their phones for browsing study 
+   Mobile usage also seems beneficial in academic contexts, with 48.48% of students primarily using their phones for research. Another 33.33% use their phones for browsing study 
    material, and a smaller group (18.18%) focuses on accounting tasks. However, the frequent appearance of symptoms such as sleep disruption could potentially undermine these benefits 
    over time.
 
