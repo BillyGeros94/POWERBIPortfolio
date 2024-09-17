@@ -139,25 +139,38 @@ Contents
 
 - **Project 6: Netflix Revenue** 
 
-    This Power BI project provides an insightful analysis of Netflix’s revenue and membership growth between 2019 and 2023, focusing on key trends and regional breakdowns.
+    I developed this dashboard to analyze the growth in revenue and memberships from 2019 to 2023, with a focus on regional contributions and global performance. The dashboard 
+    showcases how both revenue and memberships have grown steadily, while also offering insights into the role that different regions play in the overall financial health of the 
+    company.
 
-    During this period, Netflix’s revenue increased significantly, rising from $4.5 billion in 2019 to $8.5 billion in 2023. Memberships also grew steadily, from 0.77 billion to 0.98 
-    billion. The faster growth in revenue compared to memberships suggests that Netflix has become more effective at generating revenue per subscriber, possibly through price increases 
-    or added services. The quarterly revenue breakdown reveals consistent growth across all quarters, with certain periods contributing more strongly, suggesting seasonal fluctuations 
-    in revenue generation.
+    Starting with the Revenue vs. Memberships, it’s clear that revenue has steadily increased from $20 billion in 2019 to $34 billion by 2023, while memberships have risen from 0.63 
+    billion to 0.98 billion in the same period. This illustrates a strong relationship between the company’s ability to add members and its growing revenue, though the increase in 
+    revenue has slightly outpaced membership growth, suggesting potential factors like higher pricing or increased user engagement.
 
-    Globally, the EMEA and UCAN regions are Netflix’s largest revenue contributors, with EMEA accounting for 45.41% and UCAN 31.21% of total revenue. The membership distribution follows 
-    a similar pattern, with EMEA and UCAN leading in subscriber numbers. However, the APAC region holds a higher share of memberships (18.18%) than its revenue contribution, signaling 
-    untapped potential for monetization in this market.
+    The Quarterly Revenue Breakdown shows how revenue has been consistently strong across all quarters, with each year exhibiting growth over the previous one. By 2023, quarterly 
+    revenue reached $8.8 billion in the last quarter, up from $4.5 billion in the first quarter of 2019. The steady increase across all quarters suggests that the company has been able 
+    to manage its growth well, with no significant dips or volatility throughout the years, likely thanks to content releases, subscription packages, and market expansion.
 
-    The growth of memberships has been steady, increasing each year, but at a slower pace than revenue growth, indicating that Netflix may be reaching market saturation or experiencing 
-    slower subscriber acquisition. This supports the observation that Netflix is focusing on monetizing its existing user base more effectively.
+    The Global Revenue Distribution shows that UCAN (United States and Canada) accounted for 45.41% of total revenue in 2023, making it the largest revenue-generating region. 
+    EMEA (Europe, Middle East, and Africa) follows with 31.21%, showing its importance as a secondary market. APAC (Asia-Pacific) and LATM (Latin America) contributed smaller shares, 
+    at 10.43% and 12.96%, respectively, highlighting their growth potential, though they currently trail behind the more mature markets of UCAN and EMEA.
 
-    The regional revenue breakdown underscores the dominance of UCAN and EMEA, although UCAN’s growth has stabilized, while EMEA and APAC are seeing continuous increases. APAC, in 
-    particular, shows strong growth potential in both revenue and membership share, indicating that this region may be a key driver of future growth.
+    The Memberships Distribution presents a slightly different picture. UCAN holds 35.34% of the company’s total memberships, while EMEA has a comparable share at 32.55%. APAC and LATM 
+    make up the rest, at 13.93% and 18.18%, respectively. While UCAN generates the most revenue, EMEA’s membership numbers are closely aligned, and both APAC and LATM, despite having 
+    smaller revenue shares, have significant memberships. This disparity indicates that the revenue per member is higher in UCAN and EMEA compared to the other regions, potentially due 
+    to pricing strategies or consumer spending power in these markets.
 
-    Overall, this project provides a detailed look at Netflix’s growth trajectory, highlighting its success in generating increasing revenue per subscriber, the key role of regions like 
-    UCAN and EMEA, and the promising potential for growth in APAC.
+    The Global Revenue Breakdown provides further detail about the revenue composition by region over time. UCAN dominates with $14.5 billion in revenue by 2023, followed by EMEA at 
+    $10.6 billion. APAC and LATM have grown steadily, contributing $3.8 billion and $4.4 billion, respectively. The increasing revenue from all regions signals a strong global presence 
+    and suggests that emerging markets like APAC and LATM have potential for further growth.
+
+    The Memberships Growth chart visualizes the rise in memberships from 0.63 billion in 2019 to 0.98 billion in 2023. The growth trend is steady but begins to flatten slightly in 
+    2022 and 2023, indicating that membership growth may be slowing, particularly in more saturated markets like UCAN and EMEA. Despite this, the company has managed to maintain a 
+    positive trajectory, hinting at continued expansion opportunities in under-penetrated regions such as APAC and LATM.
+
+    Overall, this dashboard provides a comprehensive view of how revenue and membership growth are closely tied to geographic regions. UCAN and EMEA continue to lead in both metrics, 
+    while APAC and LATM show promise as emerging contributors to future growth. The stable increase in revenue and memberships reflects a strong global strategy, although the data also 
+    suggests that new growth strategies may be necessary to continue expanding in more saturated regions.
   
 ## Each project contains the following:
 
