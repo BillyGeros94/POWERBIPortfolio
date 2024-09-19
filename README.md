@@ -107,34 +107,32 @@ Contents
     a key product, generated less profit comparatively. The entire dashboard delivers an in-depth understanding of how different aspects of the business contribute to the overall 
     growth and profitability, helping to pinpoint key drivers and areas for improvement.
 
-- **Project 5: Student Mobile Health Effects**
+- **Project 5: Accenture Stock Analysis**
   
-   In this Power BI dashboard, I focused on analyzing the effects of mobile phone usage on students, looking into aspects such as gender distribution, mobile operating systems, daily 
-   usage patterns, health symptoms, and the perceived impact on academic performance. The analysis aims to understand how students interact with their mobile phones, whether it aids in 
-   studying, and the potential health consequences of prolonged usage.
+    In this Power BI dashboard, I analyzed Accenture's stock performance by visualizing key financial metrics and trends over time. The "Stock Price Trend" chart shows a steady growth 
+    in the company's stock price, particularly from around 2010 onward. The stock price has accelerated significantly after 2015, showing a sharp upward trajectory, especially post- 
+    2020. This upward trend indicates strong market performance, with a noticeable surge coinciding with global market shifts.
 
-   The student gender breakdown is heavily skewed towards males, who make up 81% of the sample, with females comprising only 19%. When asked whether their mobile phone 
-   are helpful for studying, an overwhelming 95.92% responded positively, showcasing the importance of mobile devices as study tools.
+    The "Yearly Dividend" graph illustrates the dividends issued by Accenture over the years. Dividends remained flat for several years, but starting from around 2010, there was a 
+    sharp increase. This is an important indicator of Accenture's profitability, as the company started to reward its shareholders more generously after the 2010s, reaching its peak in 
+    recent years. The chart also shows some fluctuation in dividends after 2020, hinting at possible adjustments based on market conditions or internal decisions.
 
-   The analysis of daily mobile phone usage reveals that 40% of students spend 4-6 hours on their phones daily, while 27.2% use them for 2-4 hours. Only 7.07% reported using their 
-   phones for less than 2 hours a day, indicating significant screen time for most students. Interestingly, when asked if mobile phones affect their performance, 40.82% of students 
-   agreed that they do, with another 29.59% remaining neutral. Only a small percentage (12.24%) strongly disagreed, indicating that the majority feel some impact, whether positive or 
-   negative.
+    The "High vs Low" graph shows the highs and lows of Accenture’s stock price over the years, with purple representing the highs and black representing the lows. This graph also 
+    reflects the general upward movement of the stock price, with the gap between the high and low values widening noticeably in the later years. This indicates increasing volatility 
+    in the stock, likely due to market fluctuations or external factors such as economic changes. The stock’s growth has been particularly pronounced after 2015, with a notable 
+    divergence between the high and low prices, suggesting periods of significant price swings.
 
-   Health-related symptoms caused by mobile usage were a major focus. The most common issue is the occurrence of all listed symptoms, which include sleep disturbances, headaches, and 
-   anxiety, affecting 34.41% of respondents. Sleep disruption alone accounts for 27.96%, followed by headaches at 24.73%. A smaller portion, 12.9%, reported anxiety or stress. These 
-   findings indicate that mobile usage can have noticeable effects on students' health, especially concerning sleep quality.
+    The "Yearly Trade Volume" chart displays the trade volume trends, with the highest activity between 2010 and 2015. Afterward, the volume decreases, possibly indicating that 
+    although the stock price rose, trading activity became less frequent. This could be due to a variety of factors, such as less speculative trading or long-term holding by investors 
+    as the company’s stock matured and became more stable.
 
-   Mobile usage also seems beneficial in academic contexts, with 48.48% of students primarily using their phones for research. Another 33.33% use their phones for browsing study 
-   material, and a smaller group (18.18%) focuses on accounting tasks. However, the frequent appearance of symptoms such as sleep disruption could potentially undermine these benefits 
-   over time.
+    Finally, the "Open vs Close" graph compares the opening and closing prices of Accenture’s stock. From 2000 to 2020, the stock shows consistent growth in both opening and closing 
+    prices, with the trend mirroring the general increase shown in the stock price chart. The difference between the opening and closing prices remains relatively small, suggesting 
+    that the stock’s daily volatility was not extreme, although the steady upward climb in both metrics indicates strong overall performance.
 
-   The dashboard also delves into symptom frequency, with 52.53% of students reporting that these symptoms occur "sometimes." Only 9.09% experience them frequently, while 21.21% and 
-   17.17% experience symptoms either rarely or never. Students are taking some precautions to manage their mobile usage, with 35.35% limiting screen time. Others are using techniques 
-   like taking breaks (21.21%) or using blue light filters (21.21%) to mitigate the negative effects.
-
-   Overall, this dashboard offers valuable insights into the complex relationship between mobile phone usage and its effects on students' health and performance. While phones are 
-   indispensable for studying and research, they also contribute to health issues that students are trying to manage through various precautions.
+    In summary, Accenture’s stock shows significant long-term growth, with increased dividend payouts and high volatility in recent years. The company's trade volume suggests that the 
+    stock might have matured in recent years, as the volume decreases while prices continue to rise. This dashboard provides a clear picture of Accenture's financial strength, its 
+    ability to generate shareholder returns, and the stock's historical performance across multiple dimensions.
 
 - **Project 6: Netflix Revenue** 
 
