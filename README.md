@@ -107,7 +107,7 @@ Contents
     a key product, generated less profit comparatively. The entire dashboard delivers an in-depth understanding of how different aspects of the business contribute to the overall 
     growth and profitability, helping to pinpoint key drivers and areas for improvement.
 
-- **Project 5: Accenture Stock Analysis**
+- **Project 5: Accenture Stock**
   
     In this Power BI dashboard, I analyzed Accenture's stock performance by visualizing key financial metrics and trends over time. The "Stock Price Trend" chart shows a steady growth 
     in the company's stock price, particularly from around 2010 onward. The stock price has accelerated significantly after 2015, showing a sharp upward trajectory, especially post- 
