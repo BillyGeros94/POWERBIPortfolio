@@ -57,7 +57,7 @@ Contents
    recent struggles in terms of wins, points, and league position. The visualizations provide a clear overview of Chelsea's performance trends over time, capturing key periods of 
    success and recent challenges.
   
-- **Project 3: Coffee Consumption Dataset**
+- **Project 3: Coffee Consumption**
   
     I created a Power BI dashboard to analyze coffee consumption patterns, focusing on the types of coffee purchased, monthly spending trends, payment methods, and top card spenders. 
     This visualization aims to give a comprehensive look at how customers interact with different coffee types, their spending habits, and payment preferences over time.
