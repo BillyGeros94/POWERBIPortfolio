@@ -27,7 +27,7 @@ Contents
    both in creating and finishing chances. On the other hand, teams such as Everton and Luton Town show inefficiency, with fewer assists and goals relative to other teams. These 
    findings suggest a significant divide in the league between high-performing, efficient teams and those that lag both in creating and converting opportunities.
 
-- **Project 2: Chelsea PL Data**
+- **Project 2: Chelsea FC**
 
    This Power BI project visualizes Chelsea Football Club's performance in the Premier League from 1990 to 2024, focusing on key metrics such as matches won, points, goals scored, goal 
    difference, and league position. The dashboard provides a historical view of Chelsea's progress and fluctuations over the years.
