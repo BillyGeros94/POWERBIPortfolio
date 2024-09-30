@@ -83,7 +83,7 @@ Contents
     Overall, the dashboard provides valuable insights into customer preferences, monthly trends, and top spenders, allowing for better decision-making when it comes to marketing, 
     inventory, and customer service strategies.
 
-- **Project 4: Store Sales Data**
+- **Project 4: Store Sales**
 
     I worked on a comprehensive sales data analysis project using Power BI, focusing on different aspects of performance across products, regions, and customer behavior. The dashboard 
     provides a holistic view of the business operations, highlighting key areas such as top-selling products, profit distribution, and geographical performance.
