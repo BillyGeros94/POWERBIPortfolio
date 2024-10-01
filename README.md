@@ -134,7 +134,7 @@ Contents
     stock might have matured in recent years, as the volume decreases while prices continue to rise. This dashboard provides a clear picture of Accenture's financial strength, its 
     ability to generate shareholder returns, and the stock's historical performance across multiple dimensions.
 
-- **Project 6: Netflix Revenue** 
+- **Project 6: Netflix** 
 
     I developed this dashboard to analyze the growth in revenue and memberships from 2019 to 2023, with a focus on regional contributions and global performance. The dashboard 
     showcases how both revenue and memberships have grown steadily, while also offering insights into the role that different regions play in the overall financial health of the 
