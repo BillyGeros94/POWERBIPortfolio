@@ -107,32 +107,34 @@ Contents
     a key product, generated less profit comparatively. The entire dashboard delivers an in-depth understanding of how different aspects of the business contribute to the overall 
     growth and profitability, helping to pinpoint key drivers and areas for improvement.
 
-- **Project 5: Accenture Stock**
+- **Project 5: Unicorns**
   
-    In this Power BI dashboard, I analyzed Accenture's stock performance by visualizing key financial metrics and trends over time. The "Stock Price Trend" chart shows a steady growth 
-    in the company's stock price, particularly from around 2010 onward. The stock price has accelerated significantly after 2015, showing a sharp upward trajectory, especially post- 
-    2020. This upward trend indicates strong market performance, with a noticeable surge coinciding with global market shifts.
+    This Power BI dashboard delivers a comprehensive analysis of the unicorn landscape, focusing on critical metrics such as valuations, funding sources, geographic distribution, and 
+    industry-specific trends. The top-left bar chart illustrates the valuations of leading unicorn companies, with Bytedance leading at an impressive $180 billion, followed closely by 
+    SpaceX at $100 billion and Stripe at $95 billion. This visualization effectively highlights the significant market presence and influence of these high-growth companies.
 
-    The "Yearly Dividend" graph illustrates the dividends issued by Accenture over the years. Dividends remained flat for several years, but starting from around 2010, there was a 
-    sharp increase. This is an important indicator of Accenture's profitability, as the company started to reward its shareholders more generously after the 2010s, reaching its peak in 
-    recent years. The chart also shows some fluctuation in dividends after 2020, hinting at possible adjustments based on market conditions or internal decisions.
+    The Industry Funding donut chart in the upper middle section provides insights into how different sectors attract investment. Fintech and e-commerce dominate the funding landscape, 
+    underscoring the substantial investor interest in digital financial services and online commerce. This indicates a broader trend toward technology-driven solutions that cater to 
+    evolving consumer behaviors, particularly in a post-pandemic world.
 
-    The "High vs Low" graph shows the highs and lows of Accenture’s stock price over the years, with purple representing the highs and black representing the lows. This graph also 
-    reflects the general upward movement of the stock price, with the gap between the high and low values widening noticeably in the later years. This indicates increasing volatility 
-    in the stock, likely due to market fluctuations or external factors such as economic changes. The stock’s growth has been particularly pronounced after 2015, with a notable 
-    divergence between the high and low prices, suggesting periods of significant price swings.
+    In terms of geographic distribution, the Valuation by Continent pie chart reveals that North America accounts for over half (54.76%) of total unicorn valuations, followed by Asia 
+    (28.75%) and Europe (13.55%). This geographic breakdown emphasizes the significant concentration of unicorns in North America, particularly in countries like USA and Canada, where 
+    technological advancements have led to the rapid emergence of high-value startups. The accompanying Companies Distribution map visually reinforces this trend, showing clusters of 
+    unicorns in North America, Europe, and Asia.
 
-    The "Yearly Trade Volume" chart displays the trade volume trends, with the highest activity between 2010 and 2015. Afterward, the volume decreases, possibly indicating that 
-    although the stock price rose, trading activity became less frequent. This could be due to a variety of factors, such as less speculative trading or long-term holding by investors 
-    as the company’s stock matured and became more stable.
+    The average funding metric, approximately $557.27 million, highlights the substantial investments flowing into these unicorns. The bar chart for Company Funding shows that Juul Labs 
+    has raised the most funding at $14 billion, suggesting that companies with innovative products or disruptive business models are securing significant capital to fuel their growth.
 
-    Finally, the "Open vs Close" graph compares the opening and closing prices of Accenture’s stock. From 2000 to 2020, the stock shows consistent growth in both opening and closing 
-    prices, with the trend mirroring the general increase shown in the stock price chart. The difference between the opening and closing prices remains relatively small, suggesting 
-    that the stock’s daily volatility was not extreme, although the steady upward climb in both metrics indicates strong overall performance.
+    The valuation trend chart demonstrates a remarkable rise in unicorn valuations over the past decade, especially after 2020. This surge likely correlates with increased digital 
+    adoption during the COVID-19 pandemic, propelling the growth of companies in e-commerce, fintech, and internet services. The trend reflects the potential for sustained growth and 
+    the attractiveness of these sectors to investors.
 
-    In summary, Accenture’s stock shows significant long-term growth, with increased dividend payouts and high volatility in recent years. The company's trade volume suggests that the 
-    stock might have matured in recent years, as the volume decreases while prices continue to rise. This dashboard provides a clear picture of Accenture's financial strength, its 
-    ability to generate shareholder returns, and the stock's historical performance across multiple dimensions.
+    Interactive elements on the right side of the dashboard allow users to filter the data based on country, industry, or specific companies. Users can also adjust valuation and funding 
+    ranges, making the dashboard highly customizable. This feature enhances user engagement and enables analysts and investors to delve deeper into specific areas of interest.
+
+    In summary, this Power BI dashboard presents a rich, data-driven view of the unicorn market. It highlights key insights regarding industry dominance, geographic trends, and funding 
+    patterns, offering valuable information for stakeholders aiming to understand the dynamics of high-growth companies in the global economy. The combination of visualizations and 
+    interactive features makes it a powerful tool for analyzing the unicorn landscape and supporting strategic investment decisions.
 
 - **Project 6: Netflix** 
 
