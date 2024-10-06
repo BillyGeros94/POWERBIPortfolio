@@ -83,29 +83,30 @@ Contents
     Overall, the dashboard provides valuable insights into customer preferences, monthly trends, and top spenders, allowing for better decision-making when it comes to marketing, 
     inventory, and customer service strategies.
 
-- **Project 4: Store Sales**
+- **Project 4: Video Games**
 
-    I worked on a comprehensive sales data analysis project using Power BI, focusing on different aspects of performance across products, regions, and customer behavior. The dashboard 
-    provides a holistic view of the business operations, highlighting key areas such as top-selling products, profit distribution, and geographical performance.
+    This Power BI dashboard delivers a thorough, interactive analysis of video game sales, focusing on publishers, platforms, genres, and regional performance. Users can filter by 
+    publisher, platform, genre, title, year, and sales range, making it easy to explore industry trends.
 
-    One of the most insightful visualizations is the breakdown of best-selling products, where staples have emerged as the highest-selling product by a significant margin. Other 
-    products like Cardinal Index Tabs and Eldon File Carts follow, but with a much lower sales volume. I also looked into best-selling subcategories, where Binders lead the way, 
-    followed by Storage and Art supplies, reflecting the popularity of office essentials.
+    The Publishers Sales Distribution chart clearly shows Nintendo's dominance, especially in North America and Japan, with Electronic Arts and Sony also holding notable shares. This 
+    breakdown helps visualize how different regions contribute to each publisher's success.
 
-    In terms of yearly sales, there's a clear upward trajectory, with sales growing steadily from 2011 to 2014. By 2014, sales reached over 60K, indicating consistent growth over the 
-    four years. Profitability is analyzed by year, with 2014 being the most profitable year, contributing 34.36% of total profits. The profit split also shows that 2011 contributed the 
-    least (16.98%), but still holds significance.
+    The Yearly Published Titles line chart tracks the industry's growth, showing a steady rise in releases, peaking around 2010. The decline afterward may reflect shifts to mobile 
+    gaming or fewer but higher-quality releases. This gives a historical overview of the industry's development.
 
-    I also analyzed customer data to understand the top customers. Tamara Chand stands out as the top customer, followed by Raymond Buch and Sanjit Chand, showing high levels of 
-    engagement. These top customers have been crucial to maintaining the revenue base.
+    In the Titles by Genre pie chart, Action and Sports games lead sales, while Role-Playing and Shooter genres maintain solid positions. This reveals consumer preferences and the types 
+    of games that tend to perform well globally.
 
-    From a geographical perspective, the most profitable regions were analyzed, and Central came out as the top performer with profits of 0.31M. Other regions such as North Asia and 
-    North America also contributed significantly, but the Central region was the standout. The shipping costs analysis shows that standard class shipping was the most used option, 
-    reflecting its efficiency and cost-effectiveness, compared to other modes like same-day delivery, which incurred higher costs.
+    The Platform Sales donut chart shows that consoles like the PS2, X360, and PS3 have driven the most sales, giving insight into which platforms shaped the market. This ties into 
+    the Yearly Sales Trend chart, where sales peaked around 2008-2010, coinciding with these consoles' dominance.
 
-    Lastly, I focused on profit across different categories, where Technology products generated the most profit at 663.7K, followed by Office Supplies at 518.47K. Furniture, although 
-    a key product, generated less profit comparatively. The entire dashboard delivers an in-depth understanding of how different aspects of the business contribute to the overall 
-    growth and profitability, helping to pinpoint key drivers and areas for improvement.
+    The Title Sales bar chart highlights individual game successes, with Wii Sports topping the list, underscoring the influence of blockbuster titles on overall sales. Meanwhile, the 
+    Publisher Sales bar chart reaffirms Nintendo’s market leadership, followed by Electronic Arts and Activision.
+
+    The Genre Sales bar chart confirms that Action and Sports games dominate the market, providing a clear comparison of how different genres perform.
+
+    Overall, this dashboard combines historical, geographical, and genre-based analysis to offer key insights into the video game industry. It is visually compelling, interactive, and 
+    provides a well-rounded view of sales trends, making it a strong portfolio project that showcases advanced data visualization and analytical skills.
 
 - **Project 5: Unicorns**
   
