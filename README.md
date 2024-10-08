@@ -6,56 +6,50 @@ Contents
 
 - **Project 1: Premier League 23-24**
 
-   This project explores various metrics and performance indicators from the 2023/2024 Premier League season, based on data sourced from FBREF. By analyzing possession against 
-   performance, there's a clear relationship between how much teams control the ball and their overall effectiveness. The chart highlights certain outliers, where teams like Manchester 
-   City and Arsenal dominate possession, whereas others like Luton Town perform poorly despite similar possession metrics. Another analysis contrasts expected contributions (xG and 
-   xAG) against actual contributions (goals and assists), showing which teams are overperforming or underperforming relative to their expected metrics. Notably, Liverpool, Manchester 
-   City, and Arsenal stand out for outperforming their expected metrics, while teams like Sheffield United and Everton underperform significantly, as evidenced by the -14 contribution 
-   for Everton.
+    This Power BI project provides a comprehensive analysis of Premier League team performances in the 2023-2024 season, focusing on possession, expected goals (xG), actual 
+    contributions, and team efficiency. The dashboard's interactive slicers—team, age, possession, goals and non-penalty expected goals—allow users to explore specific team dynamics and 
+    compare metrics across the league.
 
-   The goals breakdown offers insights into how teams score—whether through non-penalty goals (npG) or penalties (PK). Manchester City and Arsenal lead the table in overall goals, 
-   showcasing their high offensive output. At the same time, teams like Sheffield United and Everton have significantly fewer goals, indicating clear issues in their attacking 
-   performance. The relationship between squad age and performance is also explored, suggesting that teams with younger squads (around 25-26 years old) tend to perform better on non- 
-   penalty expected goals (npxG), though there's a drop-off for both older and younger squads.
+    In the Possession vs. Performance chart, teams like Manchester City and Arsenal show high possession and strong non-penalty expected goals (npxG), while lower-possession teams like 
+    Brentford also perform well, indicating different tactical approaches. The Expected Contributions vs. Actual Contributions graph highlights overperforming teams like Manchester City 
+    and Arsenal, while Everton and Wolves underperform, suggesting inefficiencies in turning opportunities into results.
 
-   The comparison between expected goals and actual performance further reinforces these findings, where top-performing teams like Manchester City and Arsenal consistently outperform 
-   their xG. Meanwhile, teams such as Luton Town struggle to match their expected goals, highlighting inefficiency in converting chances. Another key aspect is progressive actions, 
-   where progressive passes and carries (PrgA) are compared with goals and assists (G+A). Teams like Liverpool and Manchester City excel at turning progressive actions into tangible 
-   outcomes, while lower-performing teams struggle to do so.
+    The Goals vs. Expected Goals chart shows that teams like Manchester City and Arsenal exceed their expected goals, while Everton significantly underperforms, showing a gap in 
+    converting chances. The Goals Breakdown provides insight into how teams score, separating open-play goals from penalties, with top teams like Manchester City and Arsenal scoring 
+    consistently across both types.
 
-   Finally, the team efficiency chart captures the balance between assists (A) and goals (G). Teams like Manchester City, Arsenal, and Brighton demonstrate high efficiency, excelling 
-   both in creating and finishing chances. On the other hand, teams such as Everton and Luton Town show inefficiency, with fewer assists and goals relative to other teams. These 
-   findings suggest a significant divide in the league between high-performing, efficient teams and those that lag both in creating and converting opportunities.
+    The Performance vs. Squad Age chart reveals that squads in their mid-20s, such as Manchester City’s, tend to perform better, suggesting an optimal age range for peak performance. In 
+    the Expected Goals (xG) vs. Actual Performance scatter plot, teams like Arsenal and Aston Villa outperform their xG predictions, while others fall below expectations, pointing to 
+    tactical or execution issues.
+
+    The Progressive Actions vs. Goals/Assists chart shows teams like Tottenham effectively translating attacking movements into goals and assists, while some teams struggle to make 
+    their progressive actions count. Finally, the Team Efficiency chart highlights Manchester City and Arsenal as the most efficient teams in converting possession into high-quality 
+    results, while clubs like Brentford and Brighton maximize their output despite lower possession stats.
+
+    Overall, this project showcases team performance trends, providing valuable insights into how possession, expected metrics, and squad age affect success in the Premier League.
 
 - **Project 2: Chelsea FC**
 
-   This Power BI project visualizes Chelsea Football Club's performance in the Premier League from 1990 to 2024, focusing on key metrics such as matches won, points, goals scored, goal 
-   difference, and league position. The dashboard provides a historical view of Chelsea's progress and fluctuations over the years.
+    This Power BI project includes slicers for season, team, league position, and goals scored, providing an interactive way to filter and explore the data.
 
-   The League Matches Won Per Season chart shows the number of matches Chelsea has won each season. Chelsea’s performance peaks in the mid-2000s, with notable highs such as 29 and 30 
-   wins around 2005 and 2017, reflecting their dominance during these periods. However, the club's performance fluctuates in recent years, with a noticeable drop in wins after 2020.
+    We chose to focus on Chelsea for this analysis, using the slicers to examine their performance over time.
 
-   The Goal Difference Per Season graph further highlights Chelsea's varying fortunes. The goal difference climbs steadily from the 1990s, peaking at +71 in the early 2010s. This 
-   period 
-   marks Chelsea’s offensive and defensive prowess, especially under successful managers. However, more recent seasons show a marked decline in goal difference, even reaching negative 
-   figures, which indicates struggles in both scoring and defense.
+    The "League Matches Won Per Season" chart shows Chelsea's progression, with a noticeable improvement in the early 2000s, peaking between 2004 and 2010 when the club consistently won 
+    24-29 matches. There is a significant dip in wins during 2023, with only 11 victories, but a slight recovery to 18 wins in 2024.
 
-   The League Position Per Season line chart traces Chelsea’s standings in the Premier League. After consistently being mid-table in the early 1990s, the club experiences a sharp rise 
-   in the mid-1990s to early 2000s, regularly finishing in the top six. Between 2010 and 2020, Chelsea is a frequent top-four finisher, but a slight dip in performance can be seen 
-   post- 
-   2020, with the club dropping to 12th place in 2023.
+    In the "Goals Scored Per Season" chart, Chelsea's goal-scoring improved significantly in the early 2000s, with a peak of 103 goals in 2010. A decline in the 2022-2023 period, where 
+    Chelsea only managed 38 goals, reflects offensive struggles, but the club rebounds to 77 goals by 2024.
 
-   The Points Per Season bar chart reflects similar trends. Points accumulate steadily from the early 1990s, peaking in the mid-2000s with 95 points in 2005, coinciding with Chelsea's 
-   title-winning seasons. The points per season remain competitive until recent years, where a drop to 63 points in 2024 suggests Chelsea is facing more challenges.
+    The "League Position Per Season" graph highlights Chelsea’s rise to dominance, moving from mid-table finishes in the 1990s to frequent top-four positions in the 2000s and 2010s. 
+    However, there is a sharp drop to 12th place in 2023, followed by a return to 6th place in 2024.
 
-   Lastly, the Goals Scored Per Season line chart reveals Chelsea's attacking output. While the club consistently scores between 50 to 70 goals for much of its Premier League history, 
-   significant spikes—such as 103 goals in 2010—show exceptional attacking seasons. Recently, Chelsea's goal-scoring has been more moderate, reflecting both tactical shifts and 
-   possible 
-   attacking inefficiencies.
+    The "Points Per Season" visualization mirrors Chelsea’s performance trends, with consistent high points in their peak years, including 95 points in 2005. A major low occurs in 2023 
+    with only 44 points, but a recovery to 63 points in 2024 shows signs of improvement.
 
-   In conclusion, this dashboard offers a detailed look at Chelsea's Premier League history. It highlights the club's peak dominance during the 2000s and early 2010s, followed by more 
-   recent struggles in terms of wins, points, and league position. The visualizations provide a clear overview of Chelsea's performance trends over time, capturing key periods of 
-   success and recent challenges.
+    Lastly, the "Goal Difference Per Season" chart shows Chelsea’s dominance in the 2000s, with a high of +71 in 2010. A steep decline to -9 in 2023 reflects poor defense and attack 
+    that year, but by 2024, Chelsea has returned to a positive goal difference of +14.
+
+    This project effectively demonstrates Chelsea's rise, fall, and recent recovery, providing clear insights into the club’s long-term Premier League trajectory.
   
 - **Project 3: Coffee Consumption**
   
