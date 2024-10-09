@@ -131,40 +131,7 @@ Contents
     patterns, offering valuable information for stakeholders aiming to understand the dynamics of high-growth companies in the global economy. The combination of visualizations and 
     interactive features makes it a powerful tool for analyzing the unicorn landscape and supporting strategic investment decisions.
 
-- **Project 6: Netflix** 
-
-    I developed this dashboard to analyze the growth in revenue and memberships from 2019 to 2023, with a focus on regional contributions and global performance. The dashboard 
-    showcases how both revenue and memberships have grown steadily, while also offering insights into the role that different regions play in the overall financial health of the 
-    company.
-
-    Starting with the Revenue vs. Memberships, it’s clear that revenue has steadily increased from $20 billion in 2019 to $34 billion by 2023, while memberships have risen from 0.63 
-    billion to 0.98 billion in the same period. This illustrates a strong relationship between the company’s ability to add members and its growing revenue, though the increase in 
-    revenue has slightly outpaced membership growth, suggesting potential factors like higher pricing or increased user engagement.
-
-    The Quarterly Revenue Breakdown shows how revenue has been consistently strong across all quarters, with each year exhibiting growth over the previous one. By 2023, quarterly 
-    revenue reached $8.8 billion in the last quarter, up from $4.5 billion in the first quarter of 2019. The steady increase across all quarters suggests that the company has been able 
-    to manage its growth well, with no significant dips or volatility throughout the years, likely thanks to content releases, subscription packages, and market expansion.
-
-    The Global Revenue Distribution shows that UCAN (United States and Canada) accounted for 45.41% of total revenue in 2023, making it the largest revenue-generating region. 
-    EMEA (Europe, Middle East, and Africa) follows with 31.21%, showing its importance as a secondary market. APAC (Asia-Pacific) and LATM (Latin America) contributed smaller shares, 
-    at 10.43% and 12.96%, respectively, highlighting their growth potential, though they currently trail behind the more mature markets of UCAN and EMEA.
-
-    The Memberships Distribution presents a slightly different picture. UCAN holds 35.34% of the company’s total memberships, while EMEA has a comparable share at 32.55%. APAC and LATM 
-    make up the rest, at 13.93% and 18.18%, respectively. While UCAN generates the most revenue, EMEA’s membership numbers are closely aligned, and both APAC and LATM, despite having 
-    smaller revenue shares, have significant memberships. This disparity indicates that the revenue per member is higher in UCAN and EMEA compared to the other regions, potentially due 
-    to pricing strategies or consumer spending power in these markets.
-
-    The Global Revenue Breakdown provides further detail about the revenue composition by region over time. UCAN dominates with $14.5 billion in revenue by 2023, followed by EMEA at 
-    $10.6 billion. APAC and LATM have grown steadily, contributing $3.8 billion and $4.4 billion, respectively. The increasing revenue from all regions signals a strong global presence 
-    and suggests that emerging markets like APAC and LATM have potential for further growth.
-
-    The Memberships Growth chart visualizes the rise in memberships from 0.63 billion in 2019 to 0.98 billion in 2023. The growth trend is steady but begins to flatten slightly in 
-    2022 and 2023, indicating that membership growth may be slowing, particularly in more saturated markets like UCAN and EMEA. Despite this, the company has managed to maintain a 
-    positive trajectory, hinting at continued expansion opportunities in under-penetrated regions such as APAC and LATM.
-
-    Overall, this dashboard provides a comprehensive view of how revenue and membership growth are closely tied to geographic regions. UCAN and EMEA continue to lead in both metrics, 
-    while APAC and LATM show promise as emerging contributors to future growth. The stable increase in revenue and memberships reflects a strong global strategy, although the data also 
-    suggests that new growth strategies may be necessary to continue expanding in more saturated regions.
+- **Project 6: Electronics Retailer** (To be updated)
   
 ## Each project contains the following:
 
