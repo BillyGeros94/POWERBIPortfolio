@@ -107,7 +107,38 @@ Contents
     patterns, offering valuable information for stakeholders aiming to understand the dynamics of high-growth companies in the global economy. The combination of visualizations and 
     interactive features makes it a powerful tool for analyzing the unicorn landscape and supporting strategic investment decisions.
 
-- **Project 6: Electronics Retailer** (To be updated)
+- **Project 6: Electronics Retailer**
+
+    This Power BI portfolio project provides a comprehensive analysis of the sales performance of an electronics retailer across various dimensions. The project is divided into five 
+    dashboards, each offering insights into different aspects of the company’s operations: Executive Overview, Sales by Region, Product Performance, Customer Demographics, and Exchange 
+    Rates.
+
+    The Executive Overview gives a high-level snapshot of the key metrics such as total revenue, total sales, total customers, and the average order value (AOV). It also displays 
+    revenue trends by month, highlighting the peaks and dips throughout the year. Additionally, revenue is broken down by subcategories like desktops, televisions, and laptops, as well 
+    as by country, giving a geographic perspective of where the sales are coming from. The global map representation makes it visually clear which regions are the most profitable, and 
+    the trend analysis over time helps identify seasonal or cyclical patterns in sales.
+
+    In the Sales by Region dashboard, the focus shifts to geographical performance. It shows how different countries and states contribute to the overall revenue. This is visually 
+    represented with both a world map and detailed lists of revenue by region. For example, North America and Europe seem to be key markets, and the dashboard helps pinpoint which 
+    states or countries perform best. Furthermore, revenue by currency is depicted with a pie chart, providing insights into the company’s international reach and how currency 
+    distribution affects the bottom line.
+
+    The Product Performance dashboard offers a deep dive into sales by specific products. It provides a detailed table of products sold, average price, and total revenue generated. The 
+    dashboard also showcases trends in revenue and products sold over time, along with a breakdown of sales by subcategory. For example, products like refrigerators and desktops are key 
+    drivers of revenue. This section is useful for understanding which products are performing well and which might need adjustments in pricing or marketing strategy.
+
+    The Customer Demographics dashboard sheds light on the company’s customer base. It breaks down sales by age group, showing which age segments are the most active. The gender and 
+    continent analysis adds another layer of insight, revealing how male and female customers contribute to sales in different regions. This demographic analysis is key for tailoring 
+    marketing efforts, as it allows the company to focus on the most profitable customer segments. By having this clear visual breakdown, decision-makers can better understand who their 
+    customers are and where they are located.
+
+    Lastly, the Exchange Rates dashboard examines the impact of currency fluctuations on revenue. It presents revenue in different currencies, including USD, EUR, and GBP, while also 
+    showing the exchange rate trends over time. The scatter plot showing revenue versus exchange rate highlights how fluctuations can affect total revenue, which is especially relevant 
+    for an international retailer dealing with multiple currencies. This analysis helps in understanding how external economic factors like exchange rates might influence sales figures.
+
+    In conclusion, this Power BI project provides a visually engaging and data-rich analysis of the electronics retailer's operations. From the overall revenue trends to granular 
+    details about products, regions, and customer demographics, each dashboard serves a distinct purpose. Together, they offer a holistic view of the company’s performance, making it 
+    easier to identify growth opportunities, optimize product offerings, and mitigate risks associated with exchange rate fluctuations.
   
 ## Each project contains the following:
 
