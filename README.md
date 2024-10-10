@@ -51,31 +51,7 @@ Contents
 
     This project effectively demonstrates Chelsea's rise, fall, and recent recovery, providing clear insights into the club’s long-term Premier League trajectory.
   
-- **Project 3: Coffee Consumption**
-  
-    I created a Power BI dashboard to analyze coffee consumption patterns, focusing on the types of coffee purchased, monthly spending trends, payment methods, and top card spenders. 
-    This visualization aims to give a comprehensive look at how customers interact with different coffee types, their spending habits, and payment preferences over time.
-
-    The "Money Spent Per Coffee Type" visualization reveals that lattes and Americanos with milk are the most popular, each accounting for over 10K in spending. Cappuccinos follow 
-    closely with 8.2K, while Americanos and Cortados see less expenditure at 5K and 3.3K, respectively. Espresso and Cocoa have the least spending, with only 1.3K and 1.6K. This 
-    pattern reflects a strong preference for milk-based coffee drinks among customers.
-
-    In terms of consumption, Americanos with milk are consumed the most, with 319 orders, followed by lattes at 282, and cappuccinos at 222. This shows that despite the high 
-    consumption numbers for Americanos with milk, customers are willing to spend more on lattes and cappuccinos. Cortados and hot chocolate also have significant consumption, but 
-    espressos and cocoa remain the least consumed.
-
-    Looking at the "Money Spent Per Month" analysis, there’s a clear peak in May, where spending hits 9.1K, followed by a gradual decrease through to August. April saw relatively 
-    lower spending at 6.7K, and August hit the lowest point at 5.1K. This drop in spending might reflect a seasonal pattern or changing customer preferences. Similarly, the "Coffee 
-    Consumption Per Month" graph follows a similar trend, peaking in May with 267 orders and seeing a decline to 180 orders in August.
-
-    I also examined payment preferences, where card payments dominate, accounting for 92.53% of total transactions, while cash makes up only 7.47%. This indicates that most customers 
-    prefer using cards for their coffee purchases, which could be tied to convenience or store incentives.
-
-    The dashboard also highlights the top five card spenders, with the highest spender (AN00-0000-0000-0) reaching 2.8K. The other top spenders follow closely, but all are under 2.5K. 
-    This section of the dashboard helps identify the most loyal and high-value customers.
-
-    Overall, the dashboard provides valuable insights into customer preferences, monthly trends, and top spenders, allowing for better decision-making when it comes to marketing, 
-    inventory, and customer service strategies.
+- **Project 3: Pizza Sales** (To be updated)
 
 - **Project 4: Video Games**
 
