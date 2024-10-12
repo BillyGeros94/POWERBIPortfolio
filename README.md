@@ -51,7 +51,34 @@ Contents
 
     This project effectively demonstrates Chelsea's rise, fall, and recent recovery, providing clear insights into the club’s long-term Premier League trajectory.
   
-- **Project 3: Pizza Sales** (To be updated)
+- **Project 3: Pizza Sales**
+
+    In this Power BI project, I developed a dashboard that provides insights into pizza sales and customer trends for a pizza restaurant. The dashboard is designed to optimize the 
+    restaurant's menu and enhance sales performance. The first section highlights total revenue, which amounts to $818K, showcasing the restaurant's performance over a specific period. 
+    Sales are broken down by pizza category, with the "Supreme" pizza category leading in sales at $220K, followed closely by "Classic" at $208K, "Chicken" at $196K, and "Veggie" at 
+    $194K. This pie chart visualization makes it easy to understand the proportion of sales each category contributes to overall revenue.
+
+    Daily customer trends are plotted over time, where it is observed that the number of daily customers varies month by month. In January, the restaurant had 1685 customers, but by 
+    February, this number dropped to 1773, followed by a gradual recovery peaking in Juy with 1935 customers. These fluctuations may provide key insights into how seasonal changes 
+    or external factors influence customer visits, allowing the restaurant to make more informed business decisions.
+
+    Revenue trends per month reveal that July is the top revenue-generating month at $73K, while May follows closely at $71K. Interestingly, November also brought in $70K despite the 
+    dip in customer numbers during that month. These insights may be useful in scheduling promotions or managing inventory based on expected traffic and revenue. Alongside this, the top 
+    10 best-selling pizzas are highlighted in a bar chart, showcasing pizzas like "The Classic Deluxe Pizza", "The Barbecue Chicken Pizza" and "The Thai Chicken Pizza" as some of the 
+    best performers, each contributing around 2.4K in sales.
+
+    The second part of the dashboard focuses on menu optimization. It shows the restaurant's average number of pizzas sold per order at 2, and the average order price is $38.31. The 
+    promotional opportunities section is especially important for identifying where improvements can be made. A scatter plot visualizes the relationship between quantity sold and 
+    revenue for different pizzas, where certain underperforming pizzas are identified as potential areas for promotion or reformulation. For instance, pizzas like "The Brie Carre 
+    Pizza," which sold 490 units, but at a significantly lower price of $23.85, may require promotional strategies to increase sales.
+
+    The underperforming pizzas list also sheds light on pizzas like "The Mediterranean Pizza" and "The Calabrese Pizza," which have sold below expectations despite having higher price 
+    points compared to other pizzas. Identifying these underperformers allows the restaurant to reconsider their pricing, recipe, or even promotional efforts to boost sales. Filters on 
+    the dashboard provide an interactive way to explore data further, allowing users to narrow down the information by pizza category, month, or specific pizza names.
+
+    In essence, this dashboard offers a comprehensive overview of the restaurant's sales performance, customer behavior, and opportunities for growth. By understanding which pizzas are 
+    performing well and which are not, the restaurant can make data-driven decisions to optimize its menu, offer targeted promotions, and ultimately boost its overall profitability. The 
+    project demonstrates a clear use of data visualization to streamline operations and maximize sales.
 
 - **Project 4: Video Games**
 
